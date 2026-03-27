@@ -1,2 +1,2 @@
 # VMA_Design
-project
+This is a Two Man project based on our SChool Provided Problem statment on VMA_Design
